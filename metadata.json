@@ -1,0 +1,6 @@
+{
+  "name": "Phần Mềm Đánh Kết Quả Siêu Âm AI",
+  "description": "Ứng dụng tự động trích xuất chỉ số từ ảnh báo cáo siêu âm (GE, Samsung, Philips) bằng AI & OCR, tự động điền theo 6 mẫu form chuyên khoa sản phụ khoa chuẩn Y khoa và xuất file kết quả PDF chất lượng cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
